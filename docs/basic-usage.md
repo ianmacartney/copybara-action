@@ -181,7 +181,7 @@ jobs:
             pkg1-playground||copybara-playground||package.json
           pr_move: |
             ||packages/pkg1
-            packages/pkg1/docs||docs/pkg1
+            packages/pkg1/docs/pkg1||docs
             packages/pkg1/.github||.github
             packages/pkg1/package.json||package.json
 ```
